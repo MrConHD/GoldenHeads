@@ -1,0 +1,5 @@
+name: GoldenHeads
+author: MrConHD
+main: me.MrConHD.goldenheads.Core
+version: 1.0
+description: Allows users to craft a Golden Head by surrounding a players' head with gold ingots
